@@ -1,2 +1,2 @@
-# catalan-livestock-data
-Analysis and of Catalan Livestock data
+# Catalan Livestock Data Analysis
+Analysis of Catalan Livestock data
